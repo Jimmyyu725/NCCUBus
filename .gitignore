@@ -1,0 +1,8 @@
+.DS_Store
+build/
+build-device/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+deploy.sh.bak
+

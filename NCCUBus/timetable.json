@@ -1,0 +1,6540 @@
+[
+ {
+  "direction": "toCampus",
+  "leaveHome": "00:14",
+  "depart": "00:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "00:18",
+  "arrive": "00:19",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 14
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "00:14",
+  "depart": "00:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "00:18",
+  "arrive": "00:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 14
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "00:59",
+  "depart": "01:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "01:05",
+  "arrive": "01:08",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2
+  ],
+  "leaveMinutes": 59
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "00:59",
+  "depart": "01:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "01:05",
+  "arrive": "01:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 59
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:00",
+  "depart": "06:03",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "06:05",
+  "arrive": "06:07",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 360
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:14",
+  "depart": "06:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "06:18",
+  "arrive": "06:19",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 374
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:14",
+  "depart": "06:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "06:18",
+  "arrive": "06:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 374
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:18",
+  "depart": "06:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "06:25",
+  "arrive": "06:27",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 378
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:18",
+  "depart": "06:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "06:25",
+  "arrive": "06:27",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 378
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:20",
+  "depart": "06:23",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "06:25",
+  "arrive": "06:27",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 380
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:38",
+  "depart": "06:39",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "06:45",
+  "arrive": "06:47",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 398
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:40",
+  "depart": "06:43",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "06:45",
+  "arrive": "06:47",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 400
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:44",
+  "depart": "06:45",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "06:48",
+  "arrive": "06:49",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 404
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:44",
+  "depart": "06:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "06:50",
+  "arrive": "06:51",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 404
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:44",
+  "depart": "06:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "06:50",
+  "arrive": "06:51",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 404
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:59",
+  "depart": "07:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "07:05",
+  "arrive": "07:08",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 419
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "06:59",
+  "depart": "07:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "07:05",
+  "arrive": "07:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 419
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:10",
+  "depart": "07:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "07:18",
+  "arrive": "07:19",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 430
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:14",
+  "depart": "07:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "07:18",
+  "arrive": "07:19",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 434
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:14",
+  "depart": "07:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "07:18",
+  "arrive": "07:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 434
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:14",
+  "depart": "07:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "07:20",
+  "arrive": "07:21",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 434
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:18",
+  "depart": "07:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "07:25",
+  "arrive": "07:27",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 438
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:27",
+  "depart": "07:30",
+  "route": "棕21",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "07:33",
+  "arrive": "07:35",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 447
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:29",
+  "depart": "07:30",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "07:35",
+  "arrive": "07:38",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 449
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:40",
+  "depart": "07:43",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "07:45",
+  "arrive": "07:47",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 460
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:45",
+  "depart": "07:48",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "07:53",
+  "arrive": "07:54",
+  "totalMinutes": 9,
+  "days": [
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 465
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:49",
+  "depart": "07:50",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "07:53",
+  "arrive": "07:54",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 469
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:58",
+  "depart": "07:59",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "08:05",
+  "arrive": "08:07",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 478
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:59",
+  "depart": "08:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "08:05",
+  "arrive": "08:08",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2
+  ],
+  "leaveMinutes": 479
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "07:59",
+  "depart": "08:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "08:05",
+  "arrive": "08:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 479
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:10",
+  "depart": "08:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "08:18",
+  "arrive": "08:19",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 490
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:14",
+  "depart": "08:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "08:18",
+  "arrive": "08:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 494
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:20",
+  "depart": "08:23",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "08:25",
+  "arrive": "08:27",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 500
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:27",
+  "depart": "08:30",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "08:33",
+  "arrive": "08:34",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 507
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:27",
+  "depart": "08:30",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "08:33",
+  "arrive": "08:34",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 507
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:30",
+  "depart": "08:33",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "08:38",
+  "arrive": "08:39",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 510
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:34",
+  "depart": "08:35",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "08:38",
+  "arrive": "08:39",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 514
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:48",
+  "depart": "08:49",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "08:55",
+  "arrive": "08:57",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 528
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:48",
+  "depart": "08:49",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "08:55",
+  "arrive": "08:57",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 528
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:50",
+  "depart": "08:53",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "08:55",
+  "arrive": "08:57",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 530
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "08:59",
+  "depart": "09:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "09:05",
+  "arrive": "09:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 539
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:07",
+  "depart": "09:10",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "09:13",
+  "arrive": "09:14",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 547
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:10",
+  "depart": "09:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "09:18",
+  "arrive": "09:19",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 550
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:14",
+  "depart": "09:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "09:18",
+  "arrive": "09:19",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 554
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:14",
+  "depart": "09:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "09:18",
+  "arrive": "09:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 554
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:18",
+  "depart": "09:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "09:25",
+  "arrive": "09:27",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 558
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:19",
+  "depart": "09:20",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "09:25",
+  "arrive": "09:28",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 559
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:49",
+  "depart": "09:50",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "09:53",
+  "arrive": "09:54",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 589
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:59",
+  "depart": "10:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "10:05",
+  "arrive": "10:08",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 599
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "09:59",
+  "depart": "10:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "10:05",
+  "arrive": "10:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 599
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:03",
+  "depart": "10:04",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "10:10",
+  "arrive": "10:12",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 603
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:03",
+  "depart": "10:04",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "10:10",
+  "arrive": "10:12",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 603
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:10",
+  "depart": "10:13",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "10:15",
+  "arrive": "10:17",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 610
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:14",
+  "depart": "10:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "10:18",
+  "arrive": "10:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 614
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:14",
+  "depart": "10:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "10:20",
+  "arrive": "10:21",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 614
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:24",
+  "depart": "10:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "10:28",
+  "arrive": "10:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 624
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:28",
+  "depart": "10:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "10:35",
+  "arrive": "10:37",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 628
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:34",
+  "depart": "10:35",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "10:40",
+  "arrive": "10:43",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 634
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:37",
+  "depart": "10:40",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "10:43",
+  "arrive": "10:44",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 637
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "10:59",
+  "depart": "11:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "11:05",
+  "arrive": "11:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 659
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:04",
+  "depart": "11:05",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "11:08",
+  "arrive": "11:09",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 664
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:09",
+  "depart": "11:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "11:15",
+  "arrive": "11:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 669
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:10",
+  "depart": "11:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "11:18",
+  "arrive": "11:19",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 670
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:14",
+  "depart": "11:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "11:18",
+  "arrive": "11:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 674
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:20",
+  "depart": "11:23",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "11:25",
+  "arrive": "11:27",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 680
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:24",
+  "depart": "11:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "11:28",
+  "arrive": "11:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 684
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:37",
+  "depart": "11:40",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "11:43",
+  "arrive": "11:44",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 697
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:40",
+  "depart": "11:43",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "11:45",
+  "arrive": "11:47",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 700
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:43",
+  "depart": "11:44",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "11:50",
+  "arrive": "11:52",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 703
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:43",
+  "depart": "11:44",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "11:50",
+  "arrive": "11:52",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 703
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:49",
+  "depart": "11:50",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "11:55",
+  "arrive": "11:58",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 709
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "11:59",
+  "depart": "12:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "12:05",
+  "arrive": "12:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 719
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:08",
+  "depart": "12:09",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "12:15",
+  "arrive": "12:17",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 728
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:09",
+  "depart": "12:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "12:15",
+  "arrive": "12:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 729
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:10",
+  "depart": "12:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "12:18",
+  "arrive": "12:19",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 730
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:14",
+  "depart": "12:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "12:18",
+  "arrive": "12:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 734
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:14",
+  "depart": "12:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "12:20",
+  "arrive": "12:21",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 734
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:14",
+  "depart": "12:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "12:20",
+  "arrive": "12:21",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 734
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:24",
+  "depart": "12:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "12:28",
+  "arrive": "12:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 744
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "12:59",
+  "depart": "13:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "13:05",
+  "arrive": "13:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 779
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:05",
+  "depart": "13:08",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "13:10",
+  "arrive": "13:12",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 785
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:09",
+  "depart": "13:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "13:15",
+  "arrive": "13:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 789
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:14",
+  "depart": "13:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "13:18",
+  "arrive": "13:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 794
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:18",
+  "depart": "13:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "13:25",
+  "arrive": "13:27",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 798
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:18",
+  "depart": "13:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "13:25",
+  "arrive": "13:27",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 798
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:24",
+  "depart": "13:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "13:28",
+  "arrive": "13:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 804
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:38",
+  "depart": "13:39",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "13:45",
+  "arrive": "13:47",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 818
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:38",
+  "depart": "13:39",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "13:45",
+  "arrive": "13:47",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 818
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:50",
+  "depart": "13:53",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "13:55",
+  "arrive": "13:57",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 830
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:58",
+  "depart": "13:59",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:05",
+  "arrive": "14:07",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 838
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "13:59",
+  "depart": "14:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "14:05",
+  "arrive": "14:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 839
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:07",
+  "depart": "14:10",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "14:13",
+  "arrive": "14:14",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 847
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:09",
+  "depart": "14:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "14:15",
+  "arrive": "14:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 849
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:14",
+  "depart": "14:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:18",
+  "arrive": "14:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 854
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:14",
+  "depart": "14:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "14:20",
+  "arrive": "14:21",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 854
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:14",
+  "depart": "14:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "14:20",
+  "arrive": "14:21",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 854
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:18",
+  "depart": "14:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:25",
+  "arrive": "14:27",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 858
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:18",
+  "depart": "14:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:25",
+  "arrive": "14:27",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 858
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:24",
+  "depart": "14:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:28",
+  "arrive": "14:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 864
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:38",
+  "depart": "14:39",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:45",
+  "arrive": "14:47",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 878
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:38",
+  "depart": "14:39",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "14:45",
+  "arrive": "14:47",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 878
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:44",
+  "depart": "14:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "14:50",
+  "arrive": "14:51",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 884
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:58",
+  "depart": "14:59",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "15:05",
+  "arrive": "15:07",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 898
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "14:59",
+  "depart": "15:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "15:05",
+  "arrive": "15:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 899
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:09",
+  "depart": "15:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "15:15",
+  "arrive": "15:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 909
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:10",
+  "depart": "15:13",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "15:15",
+  "arrive": "15:17",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 910
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:14",
+  "depart": "15:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "15:18",
+  "arrive": "15:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 914
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:24",
+  "depart": "15:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "15:28",
+  "arrive": "15:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 924
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:28",
+  "depart": "15:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "15:35",
+  "arrive": "15:37",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 928
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:28",
+  "depart": "15:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "15:35",
+  "arrive": "15:37",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 928
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "15:59",
+  "depart": "16:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "16:05",
+  "arrive": "16:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 959
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:09",
+  "depart": "16:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "16:13",
+  "arrive": "16:14",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 969
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:10",
+  "depart": "16:13",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "16:15",
+  "arrive": "16:17",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 970
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:14",
+  "depart": "16:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "16:18",
+  "arrive": "16:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 974
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:14",
+  "depart": "16:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "16:20",
+  "arrive": "16:21",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 974
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:14",
+  "depart": "16:17",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "16:20",
+  "arrive": "16:21",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 974
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:18",
+  "depart": "16:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "16:25",
+  "arrive": "16:27",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 978
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:18",
+  "depart": "16:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "16:25",
+  "arrive": "16:27",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 978
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:34",
+  "depart": "16:35",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "16:38",
+  "arrive": "16:39",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 994
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:54",
+  "depart": "16:55",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "17:00",
+  "arrive": "17:03",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1014
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:58",
+  "depart": "16:59",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "17:05",
+  "arrive": "17:07",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1018
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "16:59",
+  "depart": "17:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "17:05",
+  "arrive": "17:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1019
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:12",
+  "depart": "17:15",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "17:18",
+  "arrive": "17:19",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1032
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:14",
+  "depart": "17:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "17:18",
+  "arrive": "17:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1034
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:19",
+  "depart": "17:20",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "17:25",
+  "arrive": "17:28",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1039
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:24",
+  "depart": "17:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "17:28",
+  "arrive": "17:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1044
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:25",
+  "depart": "17:28",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "17:30",
+  "arrive": "17:32",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1045
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:28",
+  "depart": "17:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "17:35",
+  "arrive": "17:37",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1048
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:28",
+  "depart": "17:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "17:35",
+  "arrive": "17:37",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1048
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:52",
+  "depart": "17:55",
+  "route": "棕21",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "17:58",
+  "arrive": "18:00",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1072
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:58",
+  "depart": "17:59",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "18:05",
+  "arrive": "18:07",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1078
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "17:59",
+  "depart": "18:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "18:05",
+  "arrive": "18:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1079
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:04",
+  "depart": "18:05",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "18:08",
+  "arrive": "18:09",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1084
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:07",
+  "depart": "18:10",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "18:13",
+  "arrive": "18:14",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1087
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:07",
+  "depart": "18:10",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "18:13",
+  "arrive": "18:14",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1087
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:09",
+  "depart": "18:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "18:15",
+  "arrive": "18:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1089
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:14",
+  "depart": "18:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "18:18",
+  "arrive": "18:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1094
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:28",
+  "depart": "18:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "18:35",
+  "arrive": "18:37",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1108
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:28",
+  "depart": "18:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "18:35",
+  "arrive": "18:37",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1108
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:34",
+  "depart": "18:35",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "18:38",
+  "arrive": "18:39",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1114
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:35",
+  "depart": "18:38",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "18:40",
+  "arrive": "18:42",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1115
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:49",
+  "depart": "18:50",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "18:55",
+  "arrive": "18:58",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1129
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:59",
+  "depart": "19:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "19:05",
+  "arrive": "19:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1139
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "18:59",
+  "depart": "19:02",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "19:05",
+  "arrive": "19:06",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1139
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "19:19",
+  "depart": "19:20",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "19:25",
+  "arrive": "19:28",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1159
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "19:44",
+  "depart": "19:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "19:50",
+  "arrive": "19:51",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1184
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:08",
+  "depart": "20:09",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "20:15",
+  "arrive": "20:17",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1208
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:08",
+  "depart": "20:09",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "20:15",
+  "arrive": "20:17",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1208
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:10",
+  "depart": "20:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "20:18",
+  "arrive": "20:19",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1210
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:14",
+  "depart": "20:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "20:18",
+  "arrive": "20:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1214
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:29",
+  "depart": "20:32",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "20:35",
+  "arrive": "20:36",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1229
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:34",
+  "depart": "20:35",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "20:38",
+  "arrive": "20:39",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1234
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:40",
+  "depart": "20:43",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "20:45",
+  "arrive": "20:47",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1240
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "20:59",
+  "depart": "21:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "21:05",
+  "arrive": "21:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1259
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "21:18",
+  "depart": "21:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "21:25",
+  "arrive": "21:27",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1278
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "21:18",
+  "depart": "21:19",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "21:25",
+  "arrive": "21:27",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1278
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "21:19",
+  "depart": "21:20",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "21:25",
+  "arrive": "21:28",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1279
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "21:44",
+  "depart": "21:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "21:50",
+  "arrive": "21:51",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1304
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "21:59",
+  "depart": "22:02",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "22:05",
+  "arrive": "22:06",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1319
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:10",
+  "depart": "22:13",
+  "route": "棕11副線",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "22:18",
+  "arrive": "22:19",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1330
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:14",
+  "depart": "22:15",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "22:18",
+  "arrive": "22:19",
+  "totalMinutes": 5,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1334
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:24",
+  "depart": "22:25",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "22:28",
+  "arrive": "22:29",
+  "totalMinutes": 5,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1344
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:28",
+  "depart": "22:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "22:35",
+  "arrive": "22:37",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1348
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:28",
+  "depart": "22:29",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "22:35",
+  "arrive": "22:37",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1348
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:40",
+  "depart": "22:43",
+  "route": "棕11",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "22:45",
+  "arrive": "22:47",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1360
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "22:59",
+  "depart": "23:00",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "23:05",
+  "arrive": "23:08",
+  "totalMinutes": 9,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1379
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "23:09",
+  "depart": "23:10",
+  "route": "棕11副線",
+  "boardStop": "普羅旺世",
+  "alightStop": "萬興圖書館",
+  "arriveStop": "23:15",
+  "arrive": "23:18",
+  "totalMinutes": 9,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1389
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "23:23",
+  "depart": "23:24",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "23:30",
+  "arrive": "23:32",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1403
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "23:23",
+  "depart": "23:24",
+  "route": "棕5",
+  "boardStop": "普羅旺世",
+  "alightStop": "政大",
+  "arriveStop": "23:30",
+  "arrive": "23:32",
+  "totalMinutes": 8,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1403
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "23:44",
+  "depart": "23:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "23:50",
+  "arrive": "23:51",
+  "totalMinutes": 7,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1424
+ },
+ {
+  "direction": "toCampus",
+  "leaveHome": "23:44",
+  "depart": "23:47",
+  "route": "棕18",
+  "boardStop": "政大二街",
+  "alightStop": "政大",
+  "arriveStop": "23:50",
+  "arrive": "23:51",
+  "totalMinutes": 7,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1424
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "00:03",
+  "depart": "00:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "00:14",
+  "arrive": "00:15",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 3
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "00:03",
+  "depart": "00:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "00:14",
+  "arrive": "00:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 3
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "00:04",
+  "depart": "00:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "00:14",
+  "arrive": "00:15",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 4
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "00:04",
+  "depart": "00:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "00:14",
+  "arrive": "00:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 4
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "00:55",
+  "depart": "00:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "00:59",
+  "arrive": "01:00",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 55
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "00:55",
+  "depart": "00:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "00:59",
+  "arrive": "01:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 55
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "05:53",
+  "depart": "05:58",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "06:03",
+  "arrive": "06:05",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 353
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "05:59",
+  "depart": "06:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "06:03",
+  "arrive": "06:05",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 359
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "05:59",
+  "depart": "06:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "06:03",
+  "arrive": "06:05",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 359
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:03",
+  "depart": "06:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "06:14",
+  "arrive": "06:15",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 363
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:03",
+  "depart": "06:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "06:14",
+  "arrive": "06:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 363
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:04",
+  "depart": "06:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "06:14",
+  "arrive": "06:15",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 364
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:04",
+  "depart": "06:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "06:14",
+  "arrive": "06:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 364
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:13",
+  "depart": "06:18",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "06:23",
+  "arrive": "06:25",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 373
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:15",
+  "depart": "06:19",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "06:23",
+  "arrive": "06:25",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 375
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:29",
+  "depart": "06:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "06:33",
+  "arrive": "06:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 389
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:33",
+  "depart": "06:38",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "06:43",
+  "arrive": "06:45",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 393
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:33",
+  "depart": "06:37",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "06:44",
+  "arrive": "06:45",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 393
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:38",
+  "depart": "06:42",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "06:47",
+  "arrive": "06:49",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 398
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:39",
+  "depart": "06:44",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "06:47",
+  "arrive": "06:49",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 399
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:39",
+  "depart": "06:40",
+  "route": "棕21",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "06:43",
+  "arrive": "06:45",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 399
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:55",
+  "depart": "06:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "06:59",
+  "arrive": "07:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 415
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:57",
+  "depart": "06:58",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "07:01",
+  "arrive": "07:03",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 417
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "06:57",
+  "depart": "06:58",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:01",
+  "arrive": "07:02",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 417
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:03",
+  "depart": "07:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:14",
+  "arrive": "07:15",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 423
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:03",
+  "depart": "07:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:14",
+  "arrive": "07:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 423
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:04",
+  "depart": "07:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "07:13",
+  "arrive": "07:15",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 424
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:04",
+  "depart": "07:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:14",
+  "arrive": "07:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 424
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:11",
+  "depart": "07:15",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "07:21",
+  "arrive": "07:23",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 431
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:12",
+  "depart": "07:17",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "07:21",
+  "arrive": "07:23",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 432
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:19",
+  "depart": "07:21",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "07:23",
+  "arrive": "07:25",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 439
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:19",
+  "depart": "07:21",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "07:23",
+  "arrive": "07:25",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 439
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:25",
+  "depart": "07:26",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:29",
+  "arrive": "07:30",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 445
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:26",
+  "depart": "07:30",
+  "route": "棕21",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "07:34",
+  "arrive": "07:36",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 446
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:33",
+  "depart": "07:38",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "07:43",
+  "arrive": "07:45",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 453
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:35",
+  "depart": "07:39",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "07:43",
+  "arrive": "07:45",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 455
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:38",
+  "depart": "07:42",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:49",
+  "arrive": "07:50",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 458
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:45",
+  "depart": "07:46",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "07:48",
+  "arrive": "07:50",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 465
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:55",
+  "depart": "07:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:59",
+  "arrive": "08:00",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 475
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:55",
+  "depart": "07:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "07:59",
+  "arrive": "08:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 475
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "07:59",
+  "depart": "08:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "08:03",
+  "arrive": "08:05",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 479
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:03",
+  "depart": "08:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "08:14",
+  "arrive": "08:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 483
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:13",
+  "depart": "08:18",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "08:23",
+  "arrive": "08:25",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 493
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:15",
+  "depart": "08:19",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "08:23",
+  "arrive": "08:25",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 495
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:21",
+  "depart": "08:25",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "08:30",
+  "arrive": "08:32",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 501
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:21",
+  "depart": "08:25",
+  "route": "棕18延駛松山車站",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "08:30",
+  "arrive": "08:32",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 501
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:30",
+  "depart": "08:31",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "08:34",
+  "arrive": "08:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 510
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:43",
+  "depart": "08:48",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "08:53",
+  "arrive": "08:55",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 523
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:45",
+  "depart": "08:46",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "08:48",
+  "arrive": "08:50",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 525
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:45",
+  "depart": "08:49",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "08:53",
+  "arrive": "08:55",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 525
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:46",
+  "depart": "08:51",
+  "route": "棕21",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "08:54",
+  "arrive": "08:57",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 526
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "08:55",
+  "depart": "08:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "08:59",
+  "arrive": "09:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 535
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:01",
+  "depart": "09:05",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "09:10",
+  "arrive": "09:12",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 541
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:02",
+  "depart": "09:07",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "09:10",
+  "arrive": "09:12",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 542
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:03",
+  "depart": "09:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "09:14",
+  "arrive": "09:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 543
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:15",
+  "depart": "09:16",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "09:19",
+  "arrive": "09:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 555
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:25",
+  "depart": "09:26",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "09:28",
+  "arrive": "09:30",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 565
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:29",
+  "depart": "09:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "09:33",
+  "arrive": "09:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 569
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:29",
+  "depart": "09:31",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "09:33",
+  "arrive": "09:35",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 569
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:38",
+  "depart": "09:42",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "09:49",
+  "arrive": "09:50",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 578
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:55",
+  "depart": "09:56",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "09:58",
+  "arrive": "10:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 595
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:55",
+  "depart": "09:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "09:59",
+  "arrive": "10:00",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 595
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "09:55",
+  "depart": "09:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "09:59",
+  "arrive": "10:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 595
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:03",
+  "depart": "10:08",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "10:13",
+  "arrive": "10:15",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 603
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:03",
+  "depart": "10:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "10:13",
+  "arrive": "10:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 603
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:05",
+  "depart": "10:09",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "10:13",
+  "arrive": "10:15",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 605
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:08",
+  "depart": "10:12",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "10:17",
+  "arrive": "10:19",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 608
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:09",
+  "depart": "10:14",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "10:17",
+  "arrive": "10:19",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 609
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:13",
+  "depart": "10:17",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "10:24",
+  "arrive": "10:25",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 613
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:29",
+  "depart": "10:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "10:33",
+  "arrive": "10:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 629
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:30",
+  "depart": "10:31",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "10:34",
+  "arrive": "10:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 630
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:31",
+  "depart": "10:35",
+  "route": "棕18延駛松山車站",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "10:40",
+  "arrive": "10:42",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 631
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:32",
+  "depart": "10:37",
+  "route": "棕18延駛松山車站",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "10:40",
+  "arrive": "10:42",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 632
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:53",
+  "depart": "10:57",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "11:04",
+  "arrive": "11:05",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 653
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "10:55",
+  "depart": "10:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "10:59",
+  "arrive": "11:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 655
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:03",
+  "depart": "11:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "11:14",
+  "arrive": "11:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 663
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:05",
+  "depart": "11:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "11:09",
+  "arrive": "11:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 665
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:13",
+  "depart": "11:18",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "11:23",
+  "arrive": "11:25",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 673
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:15",
+  "depart": "11:16",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "11:18",
+  "arrive": "11:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 675
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:15",
+  "depart": "11:19",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "11:23",
+  "arrive": "11:25",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 675
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:29",
+  "depart": "11:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "11:33",
+  "arrive": "11:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 689
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:29",
+  "depart": "11:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "11:33",
+  "arrive": "11:35",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 689
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:31",
+  "depart": "11:35",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "11:40",
+  "arrive": "11:42",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 691
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:32",
+  "depart": "11:37",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "11:40",
+  "arrive": "11:42",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 692
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:33",
+  "depart": "11:38",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "11:43",
+  "arrive": "11:45",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 693
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:35",
+  "depart": "11:39",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "11:43",
+  "arrive": "11:45",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 695
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:45",
+  "depart": "11:46",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "11:49",
+  "arrive": "11:50",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 705
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "11:55",
+  "depart": "11:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "11:59",
+  "arrive": "12:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 715
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:03",
+  "depart": "12:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "12:13",
+  "arrive": "12:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 723
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:05",
+  "depart": "12:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "12:09",
+  "arrive": "12:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 725
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:08",
+  "depart": "12:12",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "12:17",
+  "arrive": "12:19",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 728
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:09",
+  "depart": "12:14",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "12:17",
+  "arrive": "12:19",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 729
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:09",
+  "depart": "12:14",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "12:17",
+  "arrive": "12:19",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 729
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:25",
+  "depart": "12:26",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "12:28",
+  "arrive": "12:30",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 745
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:45",
+  "depart": "12:46",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大附中",
+  "arriveStop": "12:49",
+  "arrive": "12:52",
+  "totalMinutes": 8,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 765
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:55",
+  "depart": "12:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "12:59",
+  "arrive": "13:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 775
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "12:59",
+  "depart": "13:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "13:03",
+  "arrive": "13:05",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 779
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:00",
+  "depart": "13:04",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "13:08",
+  "arrive": "13:10",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 780
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:03",
+  "depart": "13:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "13:14",
+  "arrive": "13:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 783
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:05",
+  "depart": "13:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "13:09",
+  "arrive": "13:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 785
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:29",
+  "depart": "13:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "13:33",
+  "arrive": "13:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 809
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:29",
+  "depart": "13:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "13:33",
+  "arrive": "13:35",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 809
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:43",
+  "depart": "13:48",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "13:53",
+  "arrive": "13:55",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 823
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:45",
+  "depart": "13:49",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "13:53",
+  "arrive": "13:55",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 825
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:55",
+  "depart": "13:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "13:59",
+  "arrive": "14:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 835
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "13:59",
+  "depart": "14:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "14:03",
+  "arrive": "14:05",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 839
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:01",
+  "depart": "14:05",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "14:10",
+  "arrive": "14:12",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 841
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:03",
+  "depart": "14:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "14:14",
+  "arrive": "14:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 843
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:04",
+  "depart": "14:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "14:13",
+  "arrive": "14:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 844
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:05",
+  "depart": "14:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "14:09",
+  "arrive": "14:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 845
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:08",
+  "depart": "14:12",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "14:17",
+  "arrive": "14:19",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 848
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:09",
+  "depart": "14:14",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "14:17",
+  "arrive": "14:19",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 849
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:10",
+  "depart": "14:11",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "14:13",
+  "arrive": "14:15",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 850
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:38",
+  "depart": "14:42",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "14:47",
+  "arrive": "14:49",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 878
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:39",
+  "depart": "14:44",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "14:47",
+  "arrive": "14:49",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 879
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:55",
+  "depart": "14:56",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "14:58",
+  "arrive": "15:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 895
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "14:55",
+  "depart": "14:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "14:59",
+  "arrive": "15:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 895
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:03",
+  "depart": "15:08",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "15:13",
+  "arrive": "15:15",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 903
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:03",
+  "depart": "15:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "15:14",
+  "arrive": "15:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 903
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:04",
+  "depart": "15:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "15:13",
+  "arrive": "15:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 904
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:05",
+  "depart": "15:09",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "15:13",
+  "arrive": "15:15",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 905
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:05",
+  "depart": "15:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大附中",
+  "arriveStop": "15:11",
+  "arrive": "15:14",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 905
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:14",
+  "depart": "15:19",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "15:23",
+  "arrive": "15:25",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 914
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:29",
+  "depart": "15:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "15:33",
+  "arrive": "15:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 929
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:29",
+  "depart": "15:31",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "15:33",
+  "arrive": "15:35",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 929
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:55",
+  "depart": "15:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "15:59",
+  "arrive": "16:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 955
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "15:59",
+  "depart": "16:04",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "16:08",
+  "arrive": "16:10",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 959
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:03",
+  "depart": "16:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "16:14",
+  "arrive": "16:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 963
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:04",
+  "depart": "16:06",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "16:08",
+  "arrive": "16:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 964
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:05",
+  "depart": "16:09",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "16:13",
+  "arrive": "16:15",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 965
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:05",
+  "depart": "16:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "16:09",
+  "arrive": "16:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 965
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:08",
+  "depart": "16:12",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "16:17",
+  "arrive": "16:19",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 968
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:09",
+  "depart": "16:14",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "16:17",
+  "arrive": "16:19",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 969
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:09",
+  "depart": "16:14",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "16:17",
+  "arrive": "16:19",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 969
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:15",
+  "depart": "16:16",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "16:18",
+  "arrive": "16:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 975
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:23",
+  "depart": "16:27",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "16:34",
+  "arrive": "16:35",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 983
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:50",
+  "depart": "16:51",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "16:54",
+  "arrive": "16:55",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1010
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:55",
+  "depart": "16:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "16:59",
+  "arrive": "17:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1015
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:59",
+  "depart": "17:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "17:03",
+  "arrive": "17:05",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1019
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "16:59",
+  "depart": "17:01",
+  "route": "棕18延駛松山車站",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "17:03",
+  "arrive": "17:05",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1019
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:03",
+  "depart": "17:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "17:14",
+  "arrive": "17:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1023
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:04",
+  "depart": "17:05",
+  "route": "棕21",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "17:08",
+  "arrive": "17:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1024
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:07",
+  "depart": "17:12",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "17:15",
+  "arrive": "17:17",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1027
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:15",
+  "depart": "17:16",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "17:19",
+  "arrive": "17:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1035
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:20",
+  "depart": "17:24",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "17:28",
+  "arrive": "17:30",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1040
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:45",
+  "depart": "17:50",
+  "route": "棕21",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "17:55",
+  "arrive": "17:58",
+  "totalMinutes": 13,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1065
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:47",
+  "depart": "17:51",
+  "route": "棕21",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "17:55",
+  "arrive": "17:58",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1067
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "17:55",
+  "depart": "17:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "17:59",
+  "arrive": "18:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1075
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:01",
+  "depart": "18:05",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "18:10",
+  "arrive": "18:12",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1081
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:01",
+  "depart": "18:05",
+  "route": "棕18延駛松山車站",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "18:10",
+  "arrive": "18:12",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1081
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:02",
+  "depart": "18:07",
+  "route": "棕18延駛松山車站",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "18:10",
+  "arrive": "18:12",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1082
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:03",
+  "depart": "18:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "18:14",
+  "arrive": "18:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1083
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:05",
+  "depart": "18:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "18:09",
+  "arrive": "18:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1085
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:14",
+  "depart": "18:16",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "18:18",
+  "arrive": "18:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1094
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:23",
+  "depart": "18:27",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "18:34",
+  "arrive": "18:35",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1103
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:30",
+  "depart": "18:31",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "18:33",
+  "arrive": "18:35",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1110
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:30",
+  "depart": "18:34",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "18:38",
+  "arrive": "18:40",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1110
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:45",
+  "depart": "18:46",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "18:49",
+  "arrive": "18:50",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1125
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:54",
+  "depart": "18:59",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "19:02",
+  "arrive": "19:04",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1134
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:55",
+  "depart": "18:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "18:59",
+  "arrive": "19:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1135
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "18:59",
+  "depart": "19:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "19:03",
+  "arrive": "19:05",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1139
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "19:01",
+  "depart": "19:06",
+  "route": "棕21",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "19:09",
+  "arrive": "19:12",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1141
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "19:15",
+  "depart": "19:16",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "19:19",
+  "arrive": "19:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1155
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "19:38",
+  "depart": "19:42",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "19:47",
+  "arrive": "19:49",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1178
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "19:39",
+  "depart": "19:44",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "19:47",
+  "arrive": "19:49",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1179
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "19:40",
+  "depart": "19:41",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "19:43",
+  "arrive": "19:45",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1180
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "19:44",
+  "depart": "19:46",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "19:48",
+  "arrive": "19:50",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1184
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:03",
+  "depart": "20:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "20:14",
+  "arrive": "20:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1203
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:04",
+  "depart": "20:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "20:13",
+  "arrive": "20:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1204
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:23",
+  "depart": "20:27",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "20:34",
+  "arrive": "20:35",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1223
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:23",
+  "depart": "20:27",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "20:32",
+  "arrive": "20:34",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1223
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:24",
+  "depart": "20:29",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "20:34",
+  "arrive": "20:35",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1224
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:24",
+  "depart": "20:29",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "20:32",
+  "arrive": "20:34",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1224
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:33",
+  "depart": "20:38",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "20:43",
+  "arrive": "20:45",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1233
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:35",
+  "depart": "20:39",
+  "route": "棕11",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "20:43",
+  "arrive": "20:45",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1235
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:55",
+  "depart": "20:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "20:59",
+  "arrive": "21:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1255
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "20:59",
+  "depart": "21:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "21:03",
+  "arrive": "21:05",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1259
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:14",
+  "depart": "21:16",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "21:18",
+  "arrive": "21:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1274
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:15",
+  "depart": "21:16",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "21:19",
+  "arrive": "21:20",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1275
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:38",
+  "depart": "21:42",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "21:47",
+  "arrive": "21:49",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1298
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:39",
+  "depart": "21:44",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "21:47",
+  "arrive": "21:49",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1299
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:45",
+  "depart": "21:46",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "21:48",
+  "arrive": "21:50",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1305
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:53",
+  "depart": "21:57",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "22:02",
+  "arrive": "22:04",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1313
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "21:54",
+  "depart": "21:59",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "22:02",
+  "arrive": "22:04",
+  "totalMinutes": 10,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1314
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:03",
+  "depart": "22:07",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "22:14",
+  "arrive": "22:15",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1323
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:04",
+  "depart": "22:09",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "22:13",
+  "arrive": "22:15",
+  "totalMinutes": 11,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1324
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:13",
+  "depart": "22:17",
+  "route": "棕11副線",
+  "boardStop": "萬興國小",
+  "alightStop": "普羅旺世",
+  "arriveStop": "22:24",
+  "arrive": "22:25",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1333
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:14",
+  "depart": "22:19",
+  "route": "棕11副線",
+  "boardStop": "指南山莊",
+  "alightStop": "普羅旺世",
+  "arriveStop": "22:24",
+  "arrive": "22:25",
+  "totalMinutes": 11,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1334
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:33",
+  "depart": "22:38",
+  "route": "棕11",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "22:43",
+  "arrive": "22:45",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1353
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:55",
+  "depart": "22:56",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "22:59",
+  "arrive": "23:00",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1375
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:59",
+  "depart": "23:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "23:03",
+  "arrive": "23:05",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1379
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "22:59",
+  "depart": "23:01",
+  "route": "棕18",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "23:03",
+  "arrive": "23:05",
+  "totalMinutes": 6,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1379
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "23:05",
+  "depart": "23:06",
+  "route": "棕11副線",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "普羅旺世",
+  "arriveStop": "23:09",
+  "arrive": "23:10",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1385
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "23:38",
+  "depart": "23:42",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "23:47",
+  "arrive": "23:49",
+  "totalMinutes": 12,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1418
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "23:38",
+  "depart": "23:42",
+  "route": "棕18",
+  "boardStop": "萬興國小",
+  "alightStop": "政大二街",
+  "arriveStop": "23:47",
+  "arrive": "23:49",
+  "totalMinutes": 12,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1418
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "23:39",
+  "depart": "23:44",
+  "route": "棕18",
+  "boardStop": "指南山莊",
+  "alightStop": "政大二街",
+  "arriveStop": "23:47",
+  "arrive": "23:49",
+  "totalMinutes": 10,
+  "days": [
+   6,
+   7
+  ],
+  "leaveMinutes": 1419
+ },
+ {
+  "direction": "toHome",
+  "leaveHome": "23:45",
+  "depart": "23:46",
+  "route": "棕11",
+  "boardStop": "政大(聯合醫院)",
+  "alightStop": "政大二街",
+  "arriveStop": "23:48",
+  "arrive": "23:50",
+  "totalMinutes": 6,
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "leaveMinutes": 1425
+ }
+]
